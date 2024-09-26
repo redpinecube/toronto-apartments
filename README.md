@@ -1,4 +1,4 @@
-# The Stagnation of Accessibility in Toronto Apartments
+# The Poor Accessibility of Toronto Apartments
 
 ## Overview
 
