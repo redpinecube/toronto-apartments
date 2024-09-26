@@ -2,7 +2,7 @@
 title: "My title"
 subtitle: "My subtitle if needed"
 author: 
-  - First author
+  - Tara
   - Another author
 thanks: "Code and data are available at: LINK."
 date: today
