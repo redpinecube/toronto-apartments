@@ -1,10 +1,11 @@
 ---
-title: "The Dismal One Percent Increase in Accessibility of Toronto Apartments"
+title: "Barriers to Entry"
+subtitle: "Inaccessibility of Toronto Apartments"
 author: "Tara Chakkithara"
 thanks: "Code and data are available at: https://github.com/redpinecube/toronto-apartments"
 date: today
 date-format: long
-abstract: "Canada's rapidly aging population brings a spotlight onto the issue of accessible housing. The cost of making homes accessible can be expensive but there is a caveat, only low rise homes such as town homes and detached homes are expensive to design or remodel. High rise apartments on the other hand are different the costs are minimal. However, data on Toronto apartments from Open Data Toronto was used to find that there are barely any accessible units. Toronto apartments seem to have an all or nothing mentality. Some apartments have units that are all accessible while most have no accessible units at all."
+abstract: "Demand for accessible Canadian housing has risen in the past decade as the average Canadian age has increased. Data from Open Data Toronto was used to discern that supply is stagnant. Around 10% of all units are accessible with most of these units residing in the wards Humber River-Black Creek and Don Valley East. The percentage of accessible units within a building follows a bimodal distribution with most appartments having no accessible units and some having full accessibilty."
 format:
   pdf:
     documentclass: article
